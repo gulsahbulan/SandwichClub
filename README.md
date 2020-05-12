@@ -10,9 +10,7 @@ In this project, **Sandwich Club** app shows the details of each sandwich once i
 
 ## Screenshots
 
-<img src="demo/sandwichclub.gif" width="50%">
-
 <div class="sandwich">
-    <img src="/demo/sandwichclub_main.png" width="50%"/>
-    <img src="/demo/sandwichclub_detail.png" width="50%"/>
+    <img src="/demo/sandwichclub_main.png" width="25%"/>
+    <img src="/demo/sandwichclub_detail.png" width="25%"/>
 </div>
